@@ -7,7 +7,7 @@ Code coverage.
 Test
 
 **How game will be**
-1. We will create a grid (which is also called palace) which is of 100 rooms. 
+1. I will create a grid (which is also called palace) which is of 100 rooms. 
 2. Player will enter each room at a time. If he sees puzzle at the room and he answers for it, he will get the points. 
 3. Player will be a boss when he creates a character.
 
@@ -31,7 +31,7 @@ Is it a multi player game or single player game(Player and Enemy)?
         - Top down or bottom up.
 4. Can player create character with resources?
    - If yes, does he pay some points to get that.
-5. Can we have some default characters in the game?
+5. Can I have some default characters in the game?
    - As of now, Boss and Enemy
    
 6. If character or player finds a resource, ask puzzle here to get the resource? 
@@ -48,7 +48,7 @@ Is it a multi player game or single player game(Player and Enemy)?
 2. Can player answer for the puzzle when they try to access the resource?
     - Yes, he needs to answer the puzzle.
 3. Does the game give some hints or tips to get the exploration?
-    - Yes, we will need to provide some tips to get explored and for the puzzle. 
+    - Yes, I will need to provide some tips to get explored and for the puzzle. 
 
 ***
 **As a player I want to gain experience through fighting**
@@ -69,5 +69,5 @@ Is it a multi player game or single player game(Player and Enemy)?
     - It will be more effective.
 3. Will ask player for save when he quits the game?
     - Yes, better to ask the player when he quits
-4. How we store the positions of enemy and the player to identify for game resume?
+4. How I store the positions of enemy and the player to identify for game resume?
     - some xx(10,9) and yy(9,7)
